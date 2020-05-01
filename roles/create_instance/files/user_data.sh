@@ -23,7 +23,7 @@ cat > /var/www/html/index.html << HEREDOC
 <!DOCTYPE html>
 <html>
 <body>
-<p style="color:blue">blue.</p>
+<p style="color:green">green.</p>
 </body>
 </html>
 HEREDOC
