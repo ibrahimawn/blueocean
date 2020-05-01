@@ -1,7 +1,7 @@
 - name: change route53
   route53:
     state: present
-    zone: wread.com
+    zone: mibrahim.com
     record: www.mibrahim.com
     failover: PRIMARY
     type: CNAME
